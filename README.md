@@ -4,6 +4,8 @@
 
 This repository contains Arduino code for a robot control system. The code is designed to control the movement of a robot with three ultrasound sensors to avoid obstacles and navigate its environment.
 
+[DEMO VIDEO](https://youtu.be/meHZ4_u6nKk)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
