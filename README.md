@@ -31,6 +31,8 @@ Connect the hardware components as follows:
 - Connect the brush DC motor (if used) to motor port 3 on the AFMotor shield.
 - Connect the three ultrasound sensors to the trig and echo pins specified in the code (trig_L, echo_L, trig_M, echo_M, trig_R, echo_R).
 - Connect the IR sensor (if used) to the specified pin (ir).
+- ![image](https://github.com/rohitsinha404/ArduinoBot/assets/114895566/a4fae579-2906-4b1a-bc44-5ce6cc67d480)
+
 
 ## Installation
 
