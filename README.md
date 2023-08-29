@@ -11,7 +11,7 @@ This repository contains Arduino code for a robot control system. The code is de
 - [Nandini Ahire](https://github.com/Ahiregithub)
  - [Utkarsh Soni](https://github.com/Utkarsh-soni328)
 - [Mayuri Singh]()
-- Kanak Shinde
+- [Kanak Shinde]()
 - [Rohit Sinha](https://github.com/rohitsinha404)
  
 
