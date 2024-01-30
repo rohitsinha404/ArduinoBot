@@ -21,13 +21,13 @@ This repository contains Arduino code for a robot control system. The code is de
 
 - [Project Overview](#project-overview)
 - [Hardware Setup](#hardware-setup)
+- [Software](#software)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Hardware Setup
-![image](https://github.com/Utkarsh-soni328/ArduinoBot/assets/124017589/c608d01f-7783-4a18-8e1c-177335335d3e)<?xml version="1.0" encoding="utf-8"?>
 To use this code, you will need the following hardware components:
 
 - Arduino board (e.g., Arduino Uno)
@@ -46,6 +46,8 @@ Connect the hardware components as follows:
 - Connect the IR sensor (if used) to the specified pin (ir).
 - ![image](https://github.com/rohitsinha404/ArduinoBot/assets/114895566/a4fae579-2906-4b1a-bc44-5ce6cc67d480)
 
+## Software
+![arduino5804](https://github.com/Utkarsh-soni328/ArduinoBot/assets/124017589/f003c9de-d6f0-4789-9496-1c043bcf1051)
 
 ## Installation
 
