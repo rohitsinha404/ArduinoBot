@@ -21,7 +21,6 @@ This repository contains Arduino code for a robot control system. The code is de
 
 - [Project Overview](#project-overview)
 - [Hardware Setup](#hardware-setup)
-- [Software](#Software)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -46,9 +45,6 @@ Connect the hardware components as follows:
 - Connect the three ultrasound sensors to the trig and echo pins specified in the code (trig_L, echo_L, trig_M, echo_M, trig_R, echo_R).
 - Connect the IR sensor (if used) to the specified pin (ir).
 - ![image](https://github.com/rohitsinha404/ArduinoBot/assets/114895566/a4fae579-2906-4b1a-bc44-5ce6cc67d480)
-
-## Software
-![arduino5804](https://github.com/Utkarsh-soni328/ArduinoBot/assets/124017589/32881a46-9215-45ff-b2a4-31fb5212fcc5)
 
 
 ## Installation
